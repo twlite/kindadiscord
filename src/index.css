@@ -1,0 +1,11 @@
+body {
+    background-color: #36393e;
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+.discord-messages {
+    border: none !important;
+}

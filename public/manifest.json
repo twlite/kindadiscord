@@ -1,0 +1,9 @@
+{
+  "short_name": "Kinda Discord",
+  "name": "Kinda Discord",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4d5e94",
+  "background_color": "#ffffff"
+}
