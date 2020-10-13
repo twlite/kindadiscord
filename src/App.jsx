@@ -13,7 +13,7 @@ function App() {
         profiles: {
             Snowflake: {
                 author: "Snowflake",
-                avatar: "https://cdn.discordapp.com/avatars/480933736276426763/2ba39a4d924771f5faa76a063eb851a0.webp?size=1024",
+                avatar: "https://cdn.discordapp.com/avatars/480933736276426763/1ed14839f98137052373097a77e31510.png?size=1024",
                 roleColor: "#4d5e94"
             },
             CarlBot: {
